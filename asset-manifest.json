@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calculator-and-authorized-with-redux/static/css/main.edc4e92b.css",
+    "main.js": "/calculator-and-authorized-with-redux/static/js/main.3b72f161.js",
+    "index.html": "/calculator-and-authorized-with-redux/index.html",
+    "main.edc4e92b.css.map": "/calculator-and-authorized-with-redux/static/css/main.edc4e92b.css.map",
+    "main.3b72f161.js.map": "/calculator-and-authorized-with-redux/static/js/main.3b72f161.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edc4e92b.css",
+    "static/js/main.3b72f161.js"
+  ]
+}
